@@ -1,4 +1,7 @@
 # Nestle Products Analysis - Sales Analysis (2018 - 2020)
+
+![Nestle Banner](./images/Nestle_Banner-01.jpg)
+
 This is a sales analysis of Nestle products sold in Australia.
 
 ## Introduction
