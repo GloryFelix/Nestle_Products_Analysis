@@ -58,7 +58,8 @@ Sales table connected to the calendar table resulting in star schema model. The 
 
 ### The Dashboard
 ![Nestle product Dashboard](./images/Dashboard.png)
-Interact with the Dashboard here.
+
+Interact with the [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQzMjliNzQtYmY4MC00OTEzLTgxY2YtNzI3YTU0NTE5MjdlIiwidCI6ImM3ZTFiYjRlLTU1OTYtNDQyZS1iYThiLWM1MDUzOWZlZjUyZCJ9)
 
 ## Conclusion/Recommendation
 - Though Nescafe made more sales but milo generated more revenue. 
